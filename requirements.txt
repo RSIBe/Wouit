@@ -1,0 +1,8 @@
+streamlit==1.30.0  # Adjust to the version you're using
+folium==0.15.1  # Adjust to the version you need
+pandas
+numpy
+pydeck
+selenium
+webdriver-manager
+plotly
